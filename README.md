@@ -32,21 +32,19 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝
 ```
 
-> B.Tech CSE (Data Science) student at **DJSCE Mumbai** (CGPA 9.67), currently
-> a **Full Stack Developer Intern at Zootechx**. I build **agentic AI systems,
-> real-time voice pipelines, and distributed backend infrastructure** — not
-> just interfaces. Deep in backend + system design interview prep right now:
-> caching, consistency models, load balancing, and fault tolerance.
+> A **3rd-year CSE (Data Science)** student at **DJSCE Mumbai** (maintaining a **9.67 CGPA**) and Full Stack Developer at ZootechX. Interested in **System Design, AI, and Full-Stack Engineering**. I focus on the core engineering behind modern applications: designing scalable backend architectures, building intelligent AI retrieval systems, and crafting highly responsive full-stack applications from database to UI.
 
 ```yaml
-role:        Full Stack Developer Intern @ Zootechx
-education:   B.Tech CSE (Data Science) · DJSCE Mumbai · CGPA 9.67
-building:    Agentic AI pipelines · Real-time voice AI · Distributed backends
-focus:       System Design · Backend Engineering · Agentic AI · Semantic Search
-mindset:     ship fast, design for scale, document like it matters
+engineer:
+  role:        Full Stack Developer @ ZootechX
+  domains:     System Design · Backend Engineering · AI · Full-Stack
+  stack:       Python / FastAPI · Node.js · React / TypeScript · LangChain
+  focus:       Distributed Systems · RAG Pipelines · Low-Latency APIs · Interactive UIs
+  mindset:     "Architect for scale, code for clarity, optimize for performance."
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
+<br/><br/>
 
 ```text
 ████████╗███████╗ ██████╗██╗  ██╗    ███████╗████████╗ █████╗  ██████╗██╗  ██╗
@@ -118,7 +116,8 @@ mindset:     ship fast, design for scale, document like it matters
 <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nodejs,express,fastapi,mongodb,redis,firebase,docker,git,vercel,threejs,tailwind&theme=dark" />
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
+<br/><br/>
 
 ```text
  ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗
@@ -150,7 +149,8 @@ mindset:     ship fast, design for scale, document like it matters
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
+<br/><br/>
 
 ```text
 ███████╗██╗  ██╗██████╗ ███████╗██████╗ ██╗███████╗███╗   ██╗ ██████╗███████╗
@@ -165,7 +165,8 @@ mindset:     ship fast, design for scale, document like it matters
 |:--|:--|:--|:--|
 | **Full Stack Developer Intern** | Zootechx (Remote) | Mar 2026 – Present | Engineered full-stack SaaS & automation with scalable APIs and real-time systems · built the company's official website · contributed to core backend infrastructure |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
+<br/><br/>
 
 ```text
 ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
@@ -218,7 +219,8 @@ mindset:     ship fast, design for scale, document like it matters
 
 </details>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
+<br/><br/>
 
 ```text
 ███████╗██████╗ ██╗   ██╗ ██████╗ █████╗ ████████╗██╗ ██████╗ ███╗   ██╗
@@ -235,7 +237,8 @@ mindset:     ship fast, design for scale, document like it matters
 | Pace Junior Science College | HSC | 82.33% | 2022 – 2024 |
 | Pawar Public School | ICSE | 94.16% | 2010 – 2022 |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
+<br/><br/>
 
 ```text
 ██╗   ██╗██╗ ██████╗████████╗ ██████╗ ██████╗ ██╗███████╗███████╗
@@ -252,7 +255,8 @@ mindset:     ship fast, design for scale, document like it matters
 - 🏅 &nbsp;FE Coding Contest — Rank 13 &nbsp;|&nbsp; CodeUncode — Rank 75
 - ⚡ &nbsp;Datahack 3.0 & 4.0 &nbsp;·&nbsp; SPIT Hackathon
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
+<br/><br/>
 
 ```text
 ██████╗ ███████╗██╗   ██╗ ██████╗ ███╗   ██╗██████╗
@@ -274,9 +278,8 @@ mindset:     ship fast, design for scale, document like it matters
 - **DJS CodeAI** — Tech & Web Co-Committee Member, Projects Co-Committee Member
 - 🔭 &nbsp;Currently exploring **System Design · Distributed Systems · Semantic Search · Concurrent Programming**
 
-<br/>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
+<br/><br/>
 
 ```text
  ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗
@@ -297,8 +300,4 @@ Open to backend/AI engineering roles, collabs, and anything at the intersection 
 
 <code>&gt; the best systems are the ones nobody notices are working_</code>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
-
-</div>
