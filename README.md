@@ -2,9 +2,13 @@
 
 <img src="assets/header.svg" width="100%"/>
 
+<br/><br/>
+
+<img src="assets/name_banner.svg" width="70%"/>
+
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=Backend+%2B+Systems+Engineer;Agentic+AI+%2F+RAG+Developer;Real-Time+%26+Distributed+Systems;B.Tech+CSE+(Data+Science)+%40+DJSCE;Currently%3A+System+Design+Interview+Prep)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=System+design+%2B+AI+%2B+Full+Stack;BUILD+,+BREAK+,+BUILD+BETTER)](https://git.io/typing-svg)
 
 <br/>
 
