@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:7C3AED&height=220&section=header&text=RISHI%20BHANUSHALI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Agentic%20AI%20%7C%20System%20Design&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="assets/header.svg" width="100%"/>
 
 <br/>
 
