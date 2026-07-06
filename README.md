@@ -32,11 +32,10 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝
 ```
 
-> A **3rd-year CSE (Data Science)** student at **DJSCE Mumbai** (maintaining a **9.67 CGPA**) and Full Stack Developer at ZootechX. Interested in **System Design, AI, and Full-Stack Engineering**. I focus on the core engineering behind modern applications: designing scalable backend architectures, building intelligent AI retrieval systems, and crafting highly responsive full-stack applications from database to UI.
-
 ```yaml
 engineer:
   role:        Full Stack Developer @ ZootechX
+  education:   3rd Year CSE (Data Science) @ DJSCE
   domains:     System Design · Backend Engineering · AI · Full-Stack
   stack:       Python / FastAPI · Node.js · React / TypeScript · LangChain
   focus:       Distributed Systems · RAG Pipelines · Low-Latency APIs · Interactive UIs
@@ -56,130 +55,65 @@ engineer:
 ```
 
 <table width="100%">
-  <!-- Languages -->
   <tr>
-    <td width="30%" valign="middle" align="center">
-      <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a><br/>
-      <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a><br/>
-      <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a><br/>
+    <td width="50%" valign="top" align="center">
+      <h3>Languages & Core Logic</h3>
+      <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a> &nbsp;
+      <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> &nbsp;
+      <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a> &nbsp;
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
     </td>
-    <td width="70%" valign="top">
-      <h4>💻 Languages & Core Logic</h4>
-      <ul>
-        <li><b>C++</b> — Competitive coding (Rank 13, FE Coding Contest) and high-performance algorithms.</li>
-        <li><b>Python</b> — Asynchronous scraping pipelines, AI orchestration, FastAPI backends, and data analysis.</li>
-        <li><b>TypeScript & JavaScript</b> — Scalable full-stack application development, event-driven Node.js engines, and responsive client-side logic.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <!-- AI & RAG -->
-  <tr>
-    <td valign="middle" align="center">
-      <a href="https://www.langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></a><br/>
-      <a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /></a><br/>
-      <img src="https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/AI_Agents-06B6D4?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Vector_DBs-F55036?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Embeddings-3178C6?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Prompts-F7DF1E?style=for-the-badge&logoColor=black" />
-    </td>
-    <td valign="top">
-      <h4>🤖 AI & RAG</h4>
-      <ul>
-        <li><b>Retrieval-Augmented Generation (RAG)</b> — Designing pipelines to supply external, relevant context to LLMs for accurate and grounded generation.</li>
-        <li><b>Large Language Models (LLMs)</b> — Integrating and querying foundation models for complex reasoning, analysis, and text generation.</li>
-        <li><b>Prompt Engineering</b> — Crafting optimized system instructions, few-shot examples, and schema constraints to guarantee structured outputs.</li>
-        <li><b>Langchain</b> — Orchestrating AI workflows, sequential chains, memory patterns, and tool-use agents.</li>
-        <li><b>Playwright</b> — Engineering high-concurrency browser automation to scrape, clean, and ingest web datasets.</li>
-        <li><b>AI Agents & Workflow Automation</b> — Building autonomous multi-agent systems, decision loops, and scoring pipelines to automate processes.</li>
-        <li><b>Vector Databases & Semantic Search</b> — Indexing document chunks into specialized vector databases for fast similarity-based query matching.</li>
-        <li><b>Embeddings & Context Retrieval</b> — Converting textual features into vector spaces to search and retrieve relevant sub-contexts.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <!-- Backend & Real-time -->
-  <tr>
-    <td valign="middle" align="center">
-      <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a><br/>
-      <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a><br/>
-      <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a><br/>
-      <a href="https://socket.io"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /></a><br/>
-      <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a><br/>
+    <td width="50%" valign="top" align="center">
+      <h3>Backend & Real-Time Orchestration</h3>
+      <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a> &nbsp;
+      <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a> &nbsp;
+      <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a> &nbsp;
+      <a href="https://socket.io"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /></a> &nbsp;
+      <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a> &nbsp;
       <a href="https://celeryproject.org"><img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" /></a>
     </td>
-    <td valign="top">
-      <h4>⚡ Backend & Real-Time Orchestration</h4>
-      <ul>
-        <li><b>Asynchronous APIs</b> — Constructing high-throughput, low-latency REST and streaming backends in FastAPI and Express.</li>
-        <li><b>Real-Time Communication</b> — Setting up bi-directional event streaming and room syncing using Socket.IO.</li>
-        <li><b>Distributed Task Queues</b> — Offloading heavy computation (like web scrapers and LLM runs) using Celery and Redis as a broker.</li>
-      </ul>
-    </td>
   </tr>
-
-  <!-- Frontend -->
   <tr>
-    <td valign="middle" align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a><br/>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a><br/>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a><br/>
-      <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a><br/>
-      <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a><br/>
-      <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a><br/>
-      <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a><br/>
-      <a href="https://threejs.org"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" /></a><br/>
+    <td width="50%" valign="top" align="center">
+      <h3>AI & RAG</h3>
+      <a href="https://www.langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></a> &nbsp;
+      <a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /></a> &nbsp;
+      <img src="https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> &nbsp;
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" /> &nbsp;
+      <img src="https://img.shields.io/badge/AI_Agents-06B6D4?style=for-the-badge" /> &nbsp;
+      <img src="https://img.shields.io/badge/Vector_DBs-F55036?style=for-the-badge" /> &nbsp;
+      <img src="https://img.shields.io/badge/Embeddings-3178C6?style=for-the-badge" /> &nbsp;
+      <img src="https://img.shields.io/badge/Prompts-F7DF1E?style=for-the-badge&logoColor=black" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Frontend & UI Engineering</h3>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> &nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> &nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> &nbsp;
+      <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> &nbsp;
+      <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a> &nbsp;
+      <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a> &nbsp;
+      <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> &nbsp;
+      <a href="https://threejs.org"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" /></a> &nbsp;
       <a href="https://github.com/pmndrs/zustand"><img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logoColor=white" /></a>
     </td>
-    <td valign="top">
-      <h4>🎨 Frontend & UI Engineering</h4>
-      <ul>
-        <li><b>HTML5</b> — Semantic markup, accessibility (ARIA), Web APIs (Canvas, WebSockets, Web Workers), and standards-compliant document structure.</li>
-        <li><b>CSS3</b> — Flexbox, CSS Grid, custom properties, keyframe animations, responsive design with media queries, and modern pseudo-selectors.</li>
-        <li><b>JavaScript (ES6+)</b> — Async/await, Promises, closures, destructuring, modules, Proxy, generators, and the full browser event model.</li>
-        <li><b>React.js</b> — Custom hooks, Context API, code splitting with lazy/Suspense, performance tuning via memo/useCallback, and component composition patterns.</li>
-        <li><b>Next.js</b> — Server-side rendering (SSR), static site generation (SSG), App Router, API routes, and full-stack application deployment on Vercel.</li>
-        <li><b>Vite</b> — Lightning-fast HMR development server, plugin ecosystem, and optimized production bundling for modern frontend projects.</li>
-        <li><b>Tailwind CSS</b> — Utility-first responsive design systems, custom design tokens, and micro-interaction animations.</li>
-        <li><b>Three.js & 3D</b> — Math-heavy WebGL renders, scene management, shaders, and real-time audio visualizations in the browser.</li>
-        <li><b>Zustand & State</b> — Lightweight atomic global state, derived slices, and concurrent Web Worker orchestration.</li>
-      </ul>
-    </td>
   </tr>
-
-  <!-- Databases & Cloud -->
   <tr>
-    <td valign="middle" align="center">
-      <a href="https://mongodb.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a><br/>
-      <a href="https://mongoosejs.com"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" /></a><br/>
-      <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Schema_Design-7C3AED?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/CRUD-F59E0B?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Aggregation-E11D48?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Indexing-0EA5E9?style=for-the-badge" /><br/>
-      <a href="https://dexie.org"><img src="https://img.shields.io/badge/IndexedDB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a><br/>
-      <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a><br/>
-      <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br/>
+    <td colspan="2" valign="top" align="center">
+      <h3>Databases, DevOps & Cloud</h3>
+      <a href="https://mongodb.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a> &nbsp;
+      <a href="https://mongoosejs.com"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" /></a> &nbsp;
+      <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a> &nbsp;
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;
+      <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge" /> &nbsp;
+      <img src="https://img.shields.io/badge/Schema_Design-7C3AED?style=for-the-badge" /> &nbsp;
+      <img src="https://img.shields.io/badge/CRUD-F59E0B?style=for-the-badge" /> &nbsp;
+      <img src="https://img.shields.io/badge/Aggregation-E11D48?style=for-the-badge" /> &nbsp;
+      <img src="https://img.shields.io/badge/Indexing-0EA5E9?style=for-the-badge" /> &nbsp;
+      <a href="https://dexie.org"><img src="https://img.shields.io/badge/IndexedDB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a> &nbsp;
+      <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a> &nbsp;
+      <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
       <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    </td>
-    <td valign="top">
-      <h4>🗄️ Databases, DevOps & Cloud</h4>
-      <ul>
-        <li><b>MongoDB & Mongoose</b> — Designing flexible document schemas, complex relational references (populate), validation middleware, and change-stream listeners.</li>
-        <li><b>Firebase</b> — Real-time Firestore listeners, Auth flows, Cloud Storage, serverless functions, and Hosting for zero-config deployments.</li>
-        <li><b>SQL & NoSQL</b> — Understanding relational query design, JOINs, transactions, and normalized schemas alongside document-based and key-value stores.</li>
-        <li><b>Schema Design</b> — Architecting embed vs. reference strategies, data normalization, migration planning, and multi-tenancy modeling.</li>
-        <li><b>CRUD & Aggregation</b> — Engineering complex query pipelines with MongoDB's <code>$lookup</code>, <code>$group</code>, <code>$project</code>, and multi-stage aggregation for analytics.</li>
-        <li><b>Indexing & Query Performance</b> — Designing compound indexes, text indexes, and TTL indexes to minimize query latency and improve throughput.</li>
-        <li><b>IndexedDB & Browser Storage</b> — Client-side transactional storage via Dexie.js for offline caching, persistent sessions, and background sync.</li>
-        <li><b>Git & GitHub</b> — Feature branching, interactive rebasing, conflict resolution, PR workflows, and repository automation with Actions.</li>
-        <li><b>Vercel & Cloud Deployment</b> — Serverless and edge function deployments, environment variable management, preview URLs, and zero-downtime continuous delivery.</li>
-      </ul>
     </td>
   </tr>
 </table>
@@ -254,7 +188,7 @@ engineer:
 
 | Institution | Degree | Score | Years |
 |:--|:--|:--|:--|
-| Dwarkadas J. Sanghvi College of Engineering | B.Tech CSE (Data Science) | CGPA 9.67 | 2024 – 2028 |
+| Dwarkadas J. Sanghvi College of Engineering | B.Tech CSE (Data Science) (3rd Year) | CGPA 9.67 | 2024 – 2028 |
 | Pace Junior Science College | HSC | 82.33% | 2022 – 2024 |
 | Pawar Public School | ICSE | 94.16% | 2010 – 2022 |
 
@@ -288,7 +222,7 @@ engineer:
 
 - **DJS ARYA** — Software Team Member
 - **DJS CodeAI** — Tech & Web Co-Committee Member, Projects Co-Committee Member
-- 🔭 &nbsp;Currently exploring **System Design · Distributed Systems · AI**
+<p align="center"><b>🔭 &nbsp;Currently exploring System Design · Distributed Systems · AI</b></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
 <br/><br/>
 
@@ -301,14 +235,18 @@ engineer:
  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝
 ```
 
-Open to backend/AI engineering roles, collabs, and anything at the intersection of **systems × AI × scale**.
+Open to AI/Software/Full Stack roles, collabs, and anything at the intersection of **Systems × AI × Scale**.
 
-<a href="https://linkedin.com/in/rishi-bhanushali-65480832a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://rishiportfolio-eta.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:rishibhanushali91@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div align="center">
+  <a href="https://linkedin.com/in/rishi-bhanushali-65480832a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://rishiportfolio-eta.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a> &nbsp;
+  <a href="mailto:bhanushalirishi747@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 <br/><br/>
 
-<code>&gt; the best systems are the ones nobody notices are working_</code>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&color=6366F1&center=true&vCenter=true&width=650&lines=SHIP.+MEASURE.+LEARN.+REPEAT." />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
