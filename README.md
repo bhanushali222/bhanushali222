@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Rishi Bhanushali Portfolio Header Banner"/>
 
 <br/><br/>
 
-<img src="assets/name_banner.svg" width="70%"/>
+<img src="assets/name_banner.svg" width="70%" alt="Rishi Bhanushali Name Banner"/>
 
 <br/>
 
@@ -12,12 +12,12 @@
 
 <br/>
 
-<a href="https://rishiportfolio-eta.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/rishi-bhanushali-65480832a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/bhanushali222"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:rishibhanushali747@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://raw.githubusercontent.com/bhanushali222/bhanushali222/main/assets/resume.pdf"><img src="https://img.shields.io/badge/RESUME-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=bhanushali222&label=VISITORS&color=6366F1&style=for-the-badge" />
+<a href="https://rishiportfolio-eta.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Rishi Bhanushali Portfolio Website" /></a>
+<a href="https://linkedin.com/in/rishi-bhanushali-65480832a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rishi Bhanushali LinkedIn Profile" /></a>
+<a href="https://github.com/bhanushali222"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Rishi Bhanushali GitHub Profile" /></a>
+<a href="mailto:rishibhanushali747@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Rishi Bhanushali Email Contact" /></a>
+<a href="https://raw.githubusercontent.com/bhanushali222/bhanushali222/main/assets/resume.pdf"><img src="https://img.shields.io/badge/RESUME-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Rishi Bhanushali Resume CV" /></a>
+<img src="https://komarev.com/ghpvc/?username=bhanushali222&label=VISITORS&color=6366F1&style=for-the-badge" alt="Profile Visitor Counter" />
 
 </div>
 
@@ -238,15 +238,21 @@ engineer:
 Open to AI/Software/Full Stack roles, collabs, and anything at the intersection of **Systems × AI × Scale**.
 
 <div align="center">
-  <a href="https://linkedin.com/in/rishi-bhanushali-65480832a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-  <a href="https://rishiportfolio-eta.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a> &nbsp;
-  <a href="mailto:bhanushalirishi747@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rishi-bhanushali-65480832a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rishi Bhanushali - LinkedIn Profile" /></a> &nbsp;
+  <a href="https://rishiportfolio-eta.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Rishi Bhanushali - Personal Portfolio Website" /></a> &nbsp;
+  <a href="mailto:bhanushalirishi747@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Rishi Bhanushali - Email Contact" /></a>
 </div>
 
 <br/><br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&color=6366F1&center=true&vCenter=true&width=650&lines=SHIP.+MEASURE.+LEARN.+REPEAT." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&color=6366F1&center=true&vCenter=true&width=650&lines=SHIP.+MEASURE.+LEARN.+REPEAT." alt="Typewriter Animated Motto - SHIP. MEASURE. LEARN. REPEAT." />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%" alt="Capsule Wavy Page Footer Design"/>
+
+<!-- 
+SEO Metadata Block
+Keywords: Rishi Bhanushali, Software Engineer, Full Stack Developer, AI Engineer, System Design, Distributed Systems, RAG Pipelines, Backend Developer Mumbai, DJSCE CSE Data Science, React Developer, FastAPI, Node.js, Python, TypeScript, Software Engineer Mumbai, Competitive Programmer, Hackathon Winner
+Description: Portfolio and GitHub Profile of Rishi Bhanushali, a Full Stack & AI Software Engineer specializing in scalable distributed architectures, RAG pipelines, and interactive web application frontends.
+-->
