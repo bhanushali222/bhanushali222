@@ -236,45 +236,9 @@ engineer:
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| **Decibel** | Ultra-low-latency real-time AI voice agent with client-side VAD, concurrent Web Workers, and embedding-based memory retrieval | `React` `TypeScript` `Three.js` `ONNX Runtime Web` `Dexie` `Zustand` `Groq API` |
-| **Leadly** | Agentic multi-agent lead discovery & enrichment platform with automated scoring and AI-generated outreach | `FastAPI` `MongoDB` `ChromaDB` `Playwright` `Redis` `Celery` `Groq API` |
-| **MatchFlow** | Full-stack freelance marketplace with role-based dashboards, real-time comms, and secure auth | `React` `Node.js` `Express` `Firebase` `JWT` `Socket.IO` |
-
-<details open>
-<summary><b>🎙️ Decibel — Real-Time AI Voice Agent</b></summary>
-<br/>
-
-- Built an ultra-low-latency voice assistant using client-side voice activity detection, concurrent Web Workers, and embedding-based memory retrieval
-- Engineered streaming speech pipelines and interactive memory visualizations for responsive conversational experiences
-- `React` `TypeScript` `Three.js` `ONNX Runtime Web` `Dexie` `Zustand` `Groq API`
-
-`[ repo ↗ ]` &nbsp;`[ demo ↗ ]`
-
-</details>
-
-<details open>
-<summary><b>🕸️ Leadly — Agentic AI Lead Intelligence Platform</b></summary>
-<br/>
-
-- Architected a multi-agent lead discovery and enrichment pipeline with automated scoring and outreach generation
-- Implemented async scraping, vector-based lead indexing, and AI-driven qualification workflows for scalable prospect analysis
-- `FastAPI` `MongoDB` `ChromaDB` `Playwright` `Redis` `Celery` `Groq API`
-
-`[ repo ↗ ]` &nbsp;`[ demo ↗ ]`
-
-</details>
-
-<details open>
-<summary><b>🤝 MatchFlow — Freelance Marketplace</b></summary>
-<br/>
-
-- Built a full-stack platform with role-based dashboards and real-time communication via Socket.IO
-- Implemented secure authentication and scalable backend systems
-- `React` `Node.js` `Express` `Firebase` `JWT`
-
-`[ repo ↗ ]` &nbsp;`[ demo ↗ ]`
-
-</details>
+| **Decibel** <a href="https://github.com/bhanushali222/NOVA"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> | Ultra-low-latency real-time AI voice agent with client-side VAD, concurrent Web Workers, and embedding-based memory retrieval | `React` `TypeScript` `Three.js` `ONNX Runtime Web` `Dexie` `Zustand` `Groq API` |
+| **Leadly** <a href="https://github.com/bhanushali222/Leadly"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> | Agentic multi-agent lead discovery & enrichment platform with automated scoring and AI-generated outreach | `FastAPI` `MongoDB` `ChromaDB` `Playwright` `Redis` `Celery` `Groq API` |
+| **MatchFlow** <a href="https://github.com/bhanushali222/Matchflow"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> | Full-stack freelance marketplace with role-based dashboards, real-time comms, and secure auth | `React` `Node.js` `Express` `Firebase` `JWT` `Socket.IO` |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
 <br/><br/>
@@ -309,8 +273,6 @@ engineer:
 - 🥇 &nbsp;**HackOps 2025** — Winner (1st Position)
 - 🥇 &nbsp;**Lines of Code 8.0** — Domain Winner (Web-App)
 - 🎖️ &nbsp;**PPSB MUN** — Best Delegate & Best Position Paper
-- 🏅 &nbsp;FE Coding Contest — Rank 13 &nbsp;|&nbsp; CodeUncode — Rank 75
-- ⚡ &nbsp;Datahack 3.0 & 4.0 &nbsp;·&nbsp; SPIT Hackathon
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
 <br/><br/>
@@ -322,19 +284,11 @@ engineer:
 ██╔══██╗██╔══╝    ╚██╔╝  ██║   ██║██║╚██╗██║██║  ██║
 ██████╔╝███████╗   ██║   ╚██████╔╝██║ ╚████║██████╔╝
 ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═════╝
-
- ██████╗ ██████╗ ██████╗ ███████╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██║     ██║   ██║██║  ██║█████╗
-██║     ██║   ██║██║  ██║██╔══╝
-╚██████╗╚██████╔╝██████╔╝███████╗
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
 - **DJS ARYA** — Software Team Member
 - **DJS CodeAI** — Tech & Web Co-Committee Member, Projects Co-Committee Member
-- 🔭 &nbsp;Currently exploring **System Design · Distributed Systems · Semantic Search · Concurrent Programming**
-
+- 🔭 &nbsp;Currently exploring **System Design · Distributed Systems · AI**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" width="100%"/>
 <br/><br/>
 
