@@ -37,7 +37,6 @@ engineer:
   role:        Full Stack Developer @ ZootechX
   education:   3rd Year CSE (Data Science) @ DJSCE
   domains:     System Design · Backend Engineering · AI · Full-Stack
-  stack:       Python / FastAPI · Node.js · React / TypeScript · LangChain
   focus:       Distributed Systems · RAG Pipelines · Low-Latency APIs · Interactive UIs
   mindset:     "Architect for scale, code for clarity, optimize for performance."
 ```
