@@ -57,7 +57,7 @@ engineer:
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>Languages & Core Logic</h3>
+      <h3>Languages & Core</h3>
       <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a> &nbsp;
       <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> &nbsp;
       <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a> &nbsp;
